@@ -11,4 +11,4 @@ When a point has an equal number of blue and red neighbors, blue wins!
 
 [![kNN](https://github.com/alexspili/kNN/blob/master/Screenshot_kNN.png "k-Nearest Neighbors")][here]
 
-[here]: http://34.212.227.255:5006
+[here]: http://alexspiliotopoulos.com/aws/knn
